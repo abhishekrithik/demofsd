@@ -1,0 +1,19 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekrithik/demofsd.git"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekrithik/demofsd/issues"
+  },
+  "homepage": "https://github.com/abhishekrithik/demofsd#readme",
+  "description": ""
+}
